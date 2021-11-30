@@ -3,4 +3,4 @@ Landing Page para la aplicación PimPan enfocado a los vendedores de ropa de seg
 
 # Link:
 
-https://giordanov2.github.io/PimPanVendedor/
+https://giordanov2.github.io/RoperoVendedor/
